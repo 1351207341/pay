@@ -24,6 +24,7 @@ class WxPayConfig
    * 获取地址：https://mp.weixin.qq.com/advanced/advanced?action=dev&t=advanced/dev&token=2005451881&lang=zh_CN
    * @var string
    */
+  //sdk 默认测试帐号，现已失效
   const APPID = 'wx426b3015555a46be';
   const MCHID = '1900009851';
   const KEY = '8934e7d15453e97507ef794cf7b05193';
